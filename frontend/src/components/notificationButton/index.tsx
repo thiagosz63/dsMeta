@@ -1,5 +1,6 @@
 import './styles.css'
 import icon from '../../assets/img/notification-icon.svg'
+
 export default function NotificationButton() {
     return (
         <div className="dsmeta-red-btn">
