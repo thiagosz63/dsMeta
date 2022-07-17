@@ -52,7 +52,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/thiagosz63/dsMeta
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd frontend
 
 # instalar dependências
 npm install
