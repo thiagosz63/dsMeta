@@ -12,7 +12,8 @@ dsmeta é uma aplicação full stack web, construída durante a Semana Spring Re
 A aplicação consiste em um sistema de consulta de vendas, no qual você poderá buscar vendas em um dado intervalo de datas, e poderá notificar via SMS os dados dos melhores vendedores.
 
 ## Layout
-![image](https://user-images.githubusercontent.com/67565582/179380103-7e158754-82cd-4e70-8bda-03da5e033b92.png)
+![image](https://user-images.githubusercontent.com/67565582/181401987-0e173680-5169-42c3-805c-e0d5857b1a85.png)
+
 
 # Tecnologias utilizadas
 ## Back end
